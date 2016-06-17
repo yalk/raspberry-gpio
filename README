@@ -1,0 +1,13 @@
+===============
+Introduction
+==============
+
+to find out if there's something in front of the sensor
+
+How to implement?
+1. connect ground to ground (physical pin 6)
+2. connect +5 to physical pin 2
+3. connect output of sensor to physical pin 22 (GPIO 25)
+4. run program
+5. tadaaa!!
+
